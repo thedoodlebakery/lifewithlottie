@@ -1,2 +1,2 @@
 # lifewithlottie
-Blog about life as new mom.
+Blog created in the Python Django girls workshop. Framework for a new life blog.
